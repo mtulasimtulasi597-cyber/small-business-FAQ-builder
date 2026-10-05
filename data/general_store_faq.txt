@@ -1,0 +1,46 @@
+GENERAL STORE FAQ
+
+Store Name: Sri Lakshmi General Store
+
+Q: What are the store timings?
+A: Sri Lakshmi General Store is open from 8:00 AM to 9:00 PM every day.
+
+Q: Where is the store located?
+A: The store is located in Hyderabad.
+
+Q: What products do you sell?
+A: We sell groceries, snacks, beverages, stationery, personal care products and cleaning products.
+
+Q: Do you sell groceries?
+A: Yes, we sell rice, dal, cooking oil, spices and other grocery items.
+
+Q: Do you sell milk?
+A: Yes, fresh milk is available at the store.
+
+Q: Do you sell bread?
+A: Yes, bread is available at the store.
+
+Q: Do you sell stationery?
+A: Yes, we sell notebooks, pens, pencils and other basic stationery items.
+
+Q: Do you provide home delivery?
+A: Yes, we provide home delivery for nearby customers.
+
+Q: What payment methods do you accept?
+A: We accept cash, UPI and debit card payments.
+
+Q: Can I pay using UPI?
+A: Yes, UPI payments are accepted.
+
+Q: Can I return a damaged product?
+A: Yes, damaged products can be returned within 24 hours with the bill.
+
+Q: Do you provide discounts?
+A: Discounts are available on selected products and special offers.
+
+Q: Do you sell personal care products?
+A: Yes, we sell soaps, shampoos, toothpaste and other personal care products.
+
+Q: Do you sell cleaning products?
+A: Yes, we sell detergents, cleaning liquids and other household cleaning products.
+
